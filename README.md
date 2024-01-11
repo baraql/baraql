@@ -1,4 +1,4 @@
-### Welcome :)
+### Nice to meet you! My name is Baraq :)
 
 <!--
 **baraql/baraql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
