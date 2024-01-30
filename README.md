@@ -22,7 +22,7 @@ NYU CS student graduating May 2024 (GPA 3.99/4.0) <br />
 **Contact:** <br />
 baraq@nyu.edu <br />
 linkedin.com/in/baraq <br />
-baraql.github.io <br />
+baraql.github.io (personal website) <br />
 
 **Previous Experiences:** <br />
 Forbes Media - Technology Operations Intern (Paid) <br />
