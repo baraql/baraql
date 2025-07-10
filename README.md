@@ -1,5 +1,5 @@
 **About:** <br />
-ETH Zurich MSc. Student in CS+ML
+ETH Zurich MSc. Student in CS+ML <br />
 Bachelor's in CS from NYU <br />
 
 **Contact:** <br />
