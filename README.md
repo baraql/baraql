@@ -3,6 +3,6 @@ ETH Zurich MSc. Student in CS+ML <br />
 Bachelor's in CS from NYU <br />
 
 **Contact:** <br />
-baraq@nyu.edu <br />
+blipshitz@ethz.ch <br />
 linkedin.com/in/baraq <br />
 baraql.github.io (personal website) <br />
